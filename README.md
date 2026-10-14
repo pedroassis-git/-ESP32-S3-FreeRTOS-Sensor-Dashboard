@@ -1,6 +1,10 @@
+<img width="4284" height="5712" alt="IMG_7220" src="https://github.com/user-attachments/assets/bcb8fc6e-f7bc-4022-8479-8f869298e357" />
+<img width="4284" height="5712" alt="IMG_7220" src="https://github.com/user-attachments/assets/4948a8f0-4f52-4e1d-8530-8a494c3f473d" />
 # FreeRTOS Sensor and Display Demo
 
 An embedded firmware project for the **Adafruit ESP32-S3 Feather**, built with **PlatformIO**, the **Arduino framework**, and **FreeRTOS**. The goal is predictable sensor sampling and responsive outputs while running multiple sensor, display, and LED tasks concurrently.
+
+<img width="4284" height="5712" alt="IMG_7220" src="https://github.com/user-attachments/assets/809a4bc5-d4dc-4ba4-8752-58d844e34e88" />
 
 ## Hardware and interfaces
 
